@@ -46,7 +46,7 @@ This is a brief overview of Epicor's BAQ environment where SQL-based queries can
 
 <h2>Calculated Fields</h2>
 
-<p>This screen is a selection of the Display Fields tab. It lets you create a calculated column that will be a part of the displayed fields in the final output of the query. The column data is setup like any other database field would be with a name, data type, format, and column label (or header). Calculate on different fields and values, select from a list of functions, and there are functions not shown that can also be used in a calculation.</p>
+<p>This screen is a selection from the Display Fields tab. It lets you create a calculated column that will be a part of the displayed fields in the final output of the query. The column data is setup like any other database field would be with a name, data type, format, and column label (or header). Calculate on different fields and values, select from a list of functions, and there are functions not shown in the application that can also be used in a calculation based on SQL.</p>
 <p>
 <img src="https://github.com/darrylbartlett/epicor-baq/assets/159499839/03a85f63-f23d-47bd-a3b2-d901473adbaa"/>
 </p>
