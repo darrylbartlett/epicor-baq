@@ -38,7 +38,7 @@ This is a brief overview of Epicor's BAQ environment where SQL-based queries can
 
 <h2>The Query Builder > Display Fields Tab</h2>
 
-<p>This page is found on the Display Fields tab inside the Query Builder. In the left column, you can see all the fields for the tables that have been added to the grid. Fields shown under the 'Display Columns' area have been chosen to show as output for the query.</p>
+<p>This page is found on the Display Fields tab inside the Query Builder. In the left column, you can see all the fields for the tables that can be added to the grid. Fields shown under the 'Display Columns' area have been chosen to show as output for the query.</p>
 <p>
 <img src="https://github.com/darrylbartlett/epicor-baq/assets/159499839/533c01fd-4223-47da-8c72-1ada5b92cb75"/>
 </p>
