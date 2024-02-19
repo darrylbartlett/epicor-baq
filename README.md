@@ -32,7 +32,7 @@ This is a brief overview of Epicor's BAQ environment where SQL-based queries can
 
 <p>Most of the query creation is done in the Phrase Build area inside the Query Builder. Table objects (seen on the left column) can be selected/dragged on to the grid space. Fields for the selected table can be seen in the column on the right. When more than one table is added to the grid, relationships/joins can be setup. Specific field criteria can be added. Parameters can be setup to be chosen before the query is run. Select the fields to be displayed in the final report, and create any calculated columns to be a part of the output. More than one query can be created to have a multi-query report (a query with sub-queries).</p>
 <p>
-<img src="https://github.com/darrylbartlett/epicor-baq/assets/159499839/f8ed546a-487d-4fd8-9fb2-42155dac4833"/>
+<img src="https://github.com/darrylbartlett/epicor-baq/assets/159499839/46520156-8d21-4f1f-bf75-df801831fbb6"/>
 </p>
 <br />
 
